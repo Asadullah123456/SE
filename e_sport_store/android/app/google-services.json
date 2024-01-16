@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650746773305",
+    "project_id": "e-store-60d32",
+    "storage_bucket": "e-store-60d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650746773305:android:9623722f82771de0aeb2e8",
+        "android_client_info": {
+          "package_name": "com.example.e_sport_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3bIYmtIy3zVO6yS7RKMnyHdzEbft2z-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
